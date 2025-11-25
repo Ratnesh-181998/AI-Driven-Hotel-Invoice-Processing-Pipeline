@@ -227,7 +227,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - Linkedin -https://www.linkedin.com/in/ratneshkumar1998/
 
-Project Link: [https://github.com/yourusername/hotel-invoice-pipeline](https://github.com/yourusername/hotel-invoice-pipeline)
+Project Link: https://github.com/Ratnesh-181998
 
 ## 🙏 Acknowledgments
 
