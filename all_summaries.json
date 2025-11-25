@@ -1,0 +1,32 @@
+[
+  {
+    "source_image": "page15_img1"
+  },
+  {
+    "invoice_no": "0063521",
+    "date": "6/5/2016",
+    "tax_reg": "123456",
+    "source_image": "page15_img2"
+  },
+  {
+    "subtotal": "2928.0",
+    "tax": "439.20",
+    "total": "2928.0",
+    "source_image": "page15_img3"
+  },
+  {
+    "source_image": "page16_img1"
+  },
+  {
+    "source_image": "page16_img2"
+  },
+  {
+    "source_image": "page16_img3"
+  },
+  {
+    "source_image": "page17_img1"
+  },
+  {
+    "source_image": "page17_img2"
+  }
+]
