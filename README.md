@@ -225,7 +225,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Linkedin -https://www.linkedin.com/in/ratneshkumar1998/
 
 Project Link: [https://github.com/yourusername/hotel-invoice-pipeline](https://github.com/yourusername/hotel-invoice-pipeline)
 
