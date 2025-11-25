@@ -1,0 +1,11 @@
+description,category,price
+INVOICE #,food,102345.0
+ROOM NUMBER:,service,405.0
+CHECK-IN DATE: 01/05/,food,2023.0
+CHECK-OUT DATE: 01/07/,food,2023.0
+Room Charge,service,200.0
+Mini Bar,minibar,15.5
+Laundry,laundry,30.0
+SUBTOTAL:,food,245.5
+TAX (10%):,food,24.55
+TOTAL:,food,270.05
