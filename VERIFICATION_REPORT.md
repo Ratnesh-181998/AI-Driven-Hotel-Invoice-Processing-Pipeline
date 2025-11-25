@@ -169,6 +169,6 @@ git push -u origin main
 
 ---
 
-**Project is ready for GitHub upload! 🚀**
+**Project is ready for  upload! 🚀**
 
 Follow the steps in `GITHUB_UPLOAD_GUIDE.md` to complete the upload process.
